@@ -3,10 +3,10 @@ This repository is created to keep track of Introduction to TensorFlow for Artif
 
 # Table Of Contents
 
-####1.Excercise_1
-####2.Excercise_2
-####3.Excercise_3
-####4.Excercise_4
+#### 1.Excercise_1
+#### 2.Excercise_2
+#### 3.Excercise_3
+#### 4.Excercise_4
 
 # Credits
 Coursera : https://www.coursera.org/learn/introduction-tensorflow/home/welcome

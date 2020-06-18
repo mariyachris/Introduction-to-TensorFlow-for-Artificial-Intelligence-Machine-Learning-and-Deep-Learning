@@ -9,4 +9,4 @@ This repository is created to keep track of Introduction to TensorFlow for Artif
 #### 4.Excercise_4
 
 # Credits
-Coursera : https://www.coursera.org/learn/introduction-tensorflow/home/welcome
+Coursera : https://www.coursera.org/learn/introduction-tensorflow
